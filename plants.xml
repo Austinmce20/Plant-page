@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ROOT>
+    <plant category="cacti">
+        <species>Opuntia microdasys</species>
+        <commonName>Angel's Wings/ Bunny Ears Cactus</commonName>
+    </plant>
+    <plant category="cacti">
+        <species>Echinopsis oxygona</species>
+        <commonName>hedgehog/ sea-urchin/ Easter lily cactus.</commonName>
+    </plant>   
+
+
+    <plant category="monstera">
+        <species>Monstera adansonii</species>
+        <commonName>Swiss cheese plant</commonName>
+    </plant>
+    <plant category="monstera">
+        <species>Monstera deliciosa</species>
+        <commonName>Swiss Cheese Plant</commonName>
+    </plant>  
+</ROOT>
